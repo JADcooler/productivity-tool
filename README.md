@@ -4,9 +4,11 @@ This tool, primarily create to solve case sensitive annoyances that require manu
 
 eg:
 
-asdasd but you need ASDASD
-or AsdsSdsds but you need aSDSsDSDS
-or asd ds ds but you need ASD_DS_DS
+asdasd but you need ASDASD,
+
+or AsdsSdsds but you need aSDSsDSDS,
+
+or asd ds ds but you need ASD_DS_DS.
 
 ughhhh
 
