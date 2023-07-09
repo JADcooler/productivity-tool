@@ -2,3 +2,4 @@ pyautogui
 pyperclip
 python-xlib
 keyboard
+global-hotkeys
